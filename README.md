@@ -1,6 +1,6 @@
 # Weapon Detection System
 
-Weapon detection system for Youtube tutorial - https://www.youtube.com/channel/UC4NN7HGjbPMfdeWutaSJhjA
+
 
 Make sure to add yolov4.weights to weights folder witihn the client_side folder for the Yolov4 detection algorithm to work.
 
